@@ -1,0 +1,7 @@
+{
+    "@@locale": "ru",
+    "appBarTitle": "Pixaero",
+    "@appBarTitle": {
+        "description": "Text shown in the AppBar of the home Page"
+    }
+}
